@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - is_device_secure (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - is_device_secure (from `.symlinks/plugins/is_device_secure/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  is_device_secure:
+    :path: ".symlinks/plugins/is_device_secure/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  is_device_secure: 7fb324efd94aec68e20303424e2e75e2400c0033
+
+PODFILE CHECKSUM: a75497545d4391e2d394c3668e20cfb1c2bbd4aa
+
+COCOAPODS: 1.9.3
