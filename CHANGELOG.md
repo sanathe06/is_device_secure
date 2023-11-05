@@ -6,6 +6,8 @@
 * Gradle build tool to 7.4.1
 * SDK >=2.12.0 <4.0.0
 
+Thanks [@tomas-dorda](https://github.com/tomas-dorda)
+
 ## 1.0.0 - 2021-05-06
 
 * Add support to null safty.thanks to [@alex-melnyk](https://github.com/alex-melnyk)
