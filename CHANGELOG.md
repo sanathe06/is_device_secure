@@ -1,4 +1,6 @@
-# Change Log
+## 2.0.0
+
+* Upgrade the plugin according to Flutter SDK 3.29+
 
 ## 1.0.1- 2023-11-05
 

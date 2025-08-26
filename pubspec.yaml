@@ -1,6 +1,6 @@
 name: is_device_secure
 description: "This plugin can check security status of the device."
-version: 1.0.1
+version: 2.0.0
 homepage: https://github.com/sanathe06/is_device_secure
 
 environment:
