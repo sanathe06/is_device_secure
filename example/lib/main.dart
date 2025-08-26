@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
     String isSecured;
     // Platform messages may fail, so we use a try/catch PlatformException.
     try {
-      platformVersion =  await IsDeviceSecure.platformVersion;
+      platformVersion =  await IsDeviceSecure.platformVersion ?? 'Unknown';
     } on PlatformException {
       platformVersion = 'Failed to get platform version.';
     }
