@@ -1,8 +1,8 @@
-## 2.0.0
+## 2.0.0 - 2025-11-10
 
-* Upgrade the plugin according to Flutter SDK 3.29+
+* Upgrade the plugin according to Flutter SDK 3.29+ [@alex-melnyk](https://github.com/alex-melnyk)
 
-## 1.0.1- 2023-11-05
+## 1.0.1 - 2023-11-05
 
 * Update kotlin version to 1.8.21
 * Gradle build tool to 7.4.1
