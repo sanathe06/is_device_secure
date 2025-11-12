@@ -35,8 +35,6 @@ flutter pub get
 
 ## Usage
 
-Import the package:
-
 ```dart
 final isSecure = await IsDeviceSecure.secure;
 print("Is device secure: $isSecure");
