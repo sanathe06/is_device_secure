@@ -1,3 +1,7 @@
+## 2.0.1 - 2025-11-13
+
+* Update readme [@vanlooverenkoen](https://github.com/vanlooverenkoen) 
+
 ## 2.0.0 - 2025-11-10
 
 * Upgrade the plugin according to Flutter SDK 3.29+ [@alex-melnyk](https://github.com/alex-melnyk)
