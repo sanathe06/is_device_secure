@@ -79,6 +79,14 @@ Is device secure: false
 
 ---
 
+## Contributors
+
+* [Alex Melnyk](https://github.com/alex-melnyk)
+* [Koen Van Looveren](https://github.com/vanlooverenkoen)
+* [Tomas Dorda](https://github.com/tomas-dorda)
+
+---
+
 ## Contributing
 
 Contributions are welcome!

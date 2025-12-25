@@ -1,3 +1,7 @@
+## 2.0.2 - 2025-12-25
+
+* Add contributors section to README
+
 ## 2.0.1 - 2025-11-13
 
 * Update readme [@vanlooverenkoen](https://github.com/vanlooverenkoen) 
